@@ -32,4 +32,3 @@ or choose "My own file" in the list menu and drag a file in.
 - Instagram, TikTok and PlayStation are not supported: they have no safe public check.
 
 Use it for your own accounts and follow each platform's terms of service.
-# nebula-checker
